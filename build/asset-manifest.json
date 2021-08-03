@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3c1d0679.chunk.css",
+    "main.js": "/static/js/main.abcc4aa9.chunk.js",
+    "main.js.map": "/static/js/main.abcc4aa9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8588cf76.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8588cf76.js.map",
+    "static/css/2.78535d8a.chunk.css": "/static/css/2.78535d8a.chunk.css",
+    "static/js/2.8ef4e796.chunk.js": "/static/js/2.8ef4e796.chunk.js",
+    "static/js/2.8ef4e796.chunk.js.map": "/static/js/2.8ef4e796.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.78535d8a.chunk.css.map": "/static/css/2.78535d8a.chunk.css.map",
+    "static/css/main.3c1d0679.chunk.css.map": "/static/css/main.3c1d0679.chunk.css.map",
+    "static/js/2.8ef4e796.chunk.js.LICENSE.txt": "/static/js/2.8ef4e796.chunk.js.LICENSE.txt",
+    "static/media/Main.css": "/static/media/Content_img.46a2f4b1.png",
+    "static/media/Gerb.75c87704.png": "/static/media/Gerb.75c87704.png",
+    "static/media/Img1.9f02c88d.png": "/static/media/Img1.9f02c88d.png",
+    "static/media/Quik_img.a4960250.png": "/static/media/Quik_img.a4960250.png",
+    "static/media/senat.f6cb948e.png": "/static/media/senat.f6cb948e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8588cf76.js",
+    "static/css/2.78535d8a.chunk.css",
+    "static/js/2.8ef4e796.chunk.js",
+    "static/css/main.3c1d0679.chunk.css",
+    "static/js/main.abcc4aa9.chunk.js"
+  ]
+}

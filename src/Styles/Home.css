@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500&display=swap');
+
+.header{
+    width: 100%;
+    height: auto;
+    font-weight: normal;
+    font-family: 'Raleway', sans-serif;
+    overflow: hidden;
+}
+.header a{
+    color: white;
+}
+
+.carousel .carousel-indicators li{
+    width: 9px;
+    height: 9px;
+    border-radius: 50%;
+}
+.carousel:hover{
+    background: white;
+    opacity: 0.8;
+}
+.row-first{
+    width: 100%;
+    height: 70px;
+    background: #06456A;
+}
+.search{
+    display: inline;
+}
+form{
+    display: flex;
+    background: white;
+    border-radius:32px;
+    overflow: hidden;
+    padding:2px 10px;
+}
+.search input{
+    display: block;
+    width: 90%;
+    height: 30px;
+    background: #fff;
+    padding: 10px;
+    font-weight: normal;
+    font-size: 12px;
+    color: #000;
+    border: none;
+    border-top-left-radius: 32px;
+    border-bottom-left-radius: 32px;
+    line-height: 15px;
+}
+.search_icon{
+    color: blue;
+    font-size: 30px;
+    width:10%;
+    height: 30px;
+}
+.social-icons{
+    display:inline;
+}
+.icon{
+    background: none;
+    color: white;
+   
+}
+.row-second{
+    padding-top: 15px;
+    height: auto;
+}
+.logo1{
+    height: 50%;
+    padding-top: 10px;
+}
+.navbar{
+    background: #06456A;
+    height: 70px;
+    overflow: hidden;
+}
+.navjs{
+    display: block;
+    overflow:auto;
+    
+}
+.navbar ul{
+    width: 100%;
+    margin-top: 13px;
+    min-width: 696px;
+}
+.navbar ul li a{
+    display: block;
+    color: white;
+    font-weight: 600;
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+}
+.navbar ul li a:active{
+    display: block;
+    color: red;
+    font-weight: 600;
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+}
+.navbar ul li a:hover{
+    color: rgb(177, 177, 177);
+}
+.logo2{
+    margin-bottom: 10px;
+}
+.logo1, .logo2{
+    display: block;
+    height:80px;
+}
+.dropdown{
+    display: inline;
+}
+.menu{
+    display: none;
+}
+.menu_button{
+    color: white;
+    font-size: 40px;
+    cursor: pointer;
+}
+.close{
+    color: white;
+    position: absolute;
+    left: 87.78%;
+    right: 8.61%;
+    top: 5.62%;
+    bottom: 92.34%;
+}
+.myslider{
+    z-index:0;
+}
+@media (max-width:1199px){
+    .logo2{
+        display: none;
+    }
+    form{
+        background: rgba(0, 0, 0, 0);
+        padding: 5px;
+    }
+    .search{
+        margin-left: 60px;
+    }
+    .search input{
+        display: none;
+        background: rgba(0, 0, 0, 0);
+    }
+    .search input::placeholder{
+        color:white;
+    }
+    .search_icon{
+        display: block;
+        color: white;
+    }
+    .social-icons{
+        display: none;
+    }
+    .menu{
+        display: block;
+    }
+    .navjs{
+        display: none;
+    }
+    
+}

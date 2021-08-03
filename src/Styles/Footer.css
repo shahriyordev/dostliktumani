@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');   
+.footer{
+    width: 100%;
+    min-height: 450px;
+    padding: 50px;
+    background: #06456A;
+    margin-top: 50px;
+}
+.footer_h2{
+    font-family: 'Inter', sans-serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 39px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white ;
+}
+.phone{
+    font-size: 26px;
+    color: white;
+}
+.footer_text p, .footer_text a{
+    font-family: 'Inter';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+    margin-top: 30px;
+    text-decoration: none;
+}
+.footer_menu {
+    height: 250px;
+}
+.footer_menu li a{
+    font-family: 'Inter';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    text-decoration: none;
+    color: white ;
+    margin-top: 25px;
+}
